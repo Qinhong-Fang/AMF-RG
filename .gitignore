@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+*.pth
+*.pth.tar
+output/
+data/
+build/
+.env
