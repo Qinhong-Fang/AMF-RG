@@ -6,3 +6,4 @@ output/
 data/
 build/
 .env
+geotransformer/modules/geotransformer/local_global_registration--.py
